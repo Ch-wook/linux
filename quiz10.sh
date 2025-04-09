@@ -1,5 +1,5 @@
 #!/bin/sh
 
-history
+ls
 sleep 3
 clear
