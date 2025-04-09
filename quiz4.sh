@@ -1,4 +1,4 @@
 #!/bin/sh
 
-mkdir Directory
-
+mkdir myDirectory
+rmdir myDirectory
